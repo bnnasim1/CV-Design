@@ -1,0 +1,115 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #F4EA56;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.main{
+	height: 2410px;
+	width: 800px;
+	background-color: white;
+
+	position: relative;
+	margin: 20px auto;
+
+}
+
+.top-section{
+	background-color:#121213;
+	text-align: left;
+	padding: 20px;
+	
+	
+}
+.profile{
+	width:156px;
+	border-radius: 60%;
+	
+}
+div .cont{
+	position: absolute;
+	padding-right: 20px;
+	top: 150px;
+	right: 10px;
+}
+button{
+position: absolute;	
+top:10px;
+right:10px;
+box-shadow: #c7c7c7;
+
+font-weight: bold;
+}
+.p3{
+	text-align: justify;
+	color: #7b7b7b;
+	margin-bottom: -5px;
+	font-size: 20px;
+
+
+}
+.fa{
+	color: #0a5c92;
+}
+.p1{
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	margin: 0px;
+	margin-top: 10px;
+}
+
+.p2{
+	font-size: 20px;
+	color: #c7c7c7;
+	margin: 0px;
+	margin-top: 10px;
+}
+
+.col-div-8{
+	
+	    padding: 0px 30px 10px 30px;
+
+}
+
+.content-box{
+	
+	padding: 20px;
+}
+.head{
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+.skills{
+	margin-left: -20px;
+	    margin-bottom: 0px;
+}
+.skills li{
+	padding: 5px;
+}
+.skills li span{
+	color: #7b7b7b;
+}
+.p-4{
+	font-size: 14px;
+	color: #7b7b7b;
+	
+}
+td{
+	color: #7b7b7b;
+}
+ ul{
+	text-align: justify;
+}
+table, th, td {
+  border:1px solid rgb(29, 28, 28);
+  text-align: center;
+}
+a{
+	text-decoration: none;
+	color: #7b7b7b;
+}
